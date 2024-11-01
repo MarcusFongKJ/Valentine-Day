@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/yi-min/static/css/main.072524c3.css",
-    "main.js": "/yi-min/static/js/main.296d6d2a.js",
-    "static/js/453.ed3810f9.chunk.js": "/yi-min/static/js/453.ed3810f9.chunk.js",
-    "static/media/sad-mocha.gif": "/yi-min/static/media/sad-mocha.356c2d0210731117d0e7.gif",
-    "static/media/mocha-bear-hearts.gif": "/yi-min/static/media/mocha-bear-hearts.8500d14971ebf7cba9f6.gif",
-    "static/media/hugging-bears.gif": "/yi-min/static/media/hugging-bears.ee7b8cc5deeae1fd53e2.gif",
-    "index.html": "/yi-min/index.html",
-    "main.072524c3.css.map": "/yi-min/static/css/main.072524c3.css.map",
-    "main.296d6d2a.js.map": "/yi-min/static/js/main.296d6d2a.js.map",
-    "453.ed3810f9.chunk.js.map": "/yi-min/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Valentine-Day/static/css/main.611a38be.css",
+    "main.js": "/Valentine-Day/static/js/main.0a4c486a.js",
+    "static/js/453.ed3810f9.chunk.js": "/Valentine-Day/static/js/453.ed3810f9.chunk.js",
+    "static/media/sad-mocha.gif": "/Valentine-Day/static/media/sad-mocha.356c2d0210731117d0e7.gif",
+    "static/media/mocha-bear-hearts.gif": "/Valentine-Day/static/media/mocha-bear-hearts.8500d14971ebf7cba9f6.gif",
+    "static/media/hugging-bears.gif": "/Valentine-Day/static/media/hugging-bears.ee7b8cc5deeae1fd53e2.gif",
+    "index.html": "/Valentine-Day/index.html",
+    "main.611a38be.css.map": "/Valentine-Day/static/css/main.611a38be.css.map",
+    "main.0a4c486a.js.map": "/Valentine-Day/static/js/main.0a4c486a.js.map",
+    "453.ed3810f9.chunk.js.map": "/Valentine-Day/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.072524c3.css",
-    "static/js/main.296d6d2a.js"
+    "static/css/main.611a38be.css",
+    "static/js/main.0a4c486a.js"
   ]
 }
