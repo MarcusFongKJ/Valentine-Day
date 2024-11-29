@@ -43,7 +43,7 @@ function App() {
             <>
               {/* https://tenor.com/en-SG/view/mocha-bear-hearts-mocha-and-milk-bears-milk-mocha-bear-gif-love-gif-7355347396987361923 */}
               <img src={mocha} alt='mocha bear' width={200}></img>
-              <div className='txtDiv'>Will you go out with me?</div>
+              <div className='txtDiv'>Will you forgive me?</div>
               <div className='btnDiv'>
                 <button className='yesBtn' style={{fontSize: yesBtnSize}} onClick={() => setYesPressed(true)}>Yes</button>
                 <button className='noBtn' onClick={handleNoClick}>{getNoBtnTxt()}</button>
